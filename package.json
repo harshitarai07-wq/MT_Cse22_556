@@ -1,0 +1,18 @@
+
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MidTerm1.js",
+  "scripts": {
+    "start": "node MidTerm1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
